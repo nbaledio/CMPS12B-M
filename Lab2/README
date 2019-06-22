@@ -1,0 +1,16 @@
+Nathan Baledio
+ID 1574354
+
+Files Included:
+1. CommandLineArguments.java
+2. FileCopy.java
+3. FileReverse.java
+4. FileTokens.java
+5. Makefile
+6. README
+7. gettysburg.txt
+8. gettysburg-reversed.txt
+9. in.txt
+10. out.txt
+
+*Code for FileReverse taken and modified from Lab2 FileTokens.java. Code for Makefile taken and modified from Lab1 Simple Makefile.

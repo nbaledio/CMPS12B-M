@@ -1,0 +1,22 @@
+ID: 1574534
+Nathan Baledio
+
+Lab 3 Files:
+
+1. CommandLineArguements
+2. CommandLineArguements.c
+3. Makefile
+4. fileIO 
+5. fileIO.c
+6. fileReverse
+7. fileReverse.c
+8. gettysburg-reversed.txt
+9. gettysburg.txt
+10. hello
+11. hello.c
+12. in.txt
+13. out.txt
+14. README
+
+Code for fileReverse mainly used from fileIO code.
+Resetting array for fileReverse learned from https://stackoverflow.com/questions/10898401/how-to-reset-c-array-so-all-elements-are-0

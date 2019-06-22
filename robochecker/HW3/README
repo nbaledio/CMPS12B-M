@@ -1,0 +1,19 @@
+Nathan Baledio
+ID 1574354
+
+Files Included:
+1. ChessMoves.java
+2. Makefile
+3. README
+4. basic-input.txt
+5. basic-output.txt
+6. more-input.txt
+7. more-output.txt
+8. out.txt
+9. simple-input.txt
+10. simple-output.txt
+
+Note: Code will not run with inputs that include pawns
+
+Classes/methods reused from HW2
+Makefile code used from Lab1

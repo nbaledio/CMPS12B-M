@@ -1,0 +1,7 @@
+1. 0.5:Its complexity is O(n)
+2. 0.5:each bin needs a reference
+3. 1.25:good
+4. 1.25:good
+5. 2:almost correct answer, some explanation
+6. 2:delete 42 operation is wrong
+Final Score:7.5

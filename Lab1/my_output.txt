@@ -1,0 +1,7 @@
+Hello jayanth
+Operating system: Linux 4.15.0-29-generic
+Runtime environment: OpenJDK Runtime Environment 10.0.2+13-Ubuntu-1ubuntu0.18.04.2
+Virtual machine: OpenJDK 64-Bit Server VM 10.0.2+13-Ubuntu-1ubuntu0.18.04.2
+Java home directory: /usr/lib/jvm/java-11-openjdk-amd64
+Free memory: 31370520 bytes
+Time: Fri Oct 12 20:33:30 PDT 2018.

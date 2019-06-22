@@ -1,0 +1,17 @@
+Nathan Baledio
+ID: 1574354
+
+Files included:
+
+1. Bard.java
+2. Makefile
+3. README
+4. gen.py
+5. more-input.txt
+6. more-output.txt
+7. qwerty.txt
+8. test-input.txt
+9.test-output.txt
+
+***NOTE*** Bard.java is hardcoded to read through a "shakespeare.txt" file. Please ensure that
+this file is in the same directory as Bard.java in order for it to work

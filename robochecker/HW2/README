@@ -1,0 +1,19 @@
+Nathan Baledio
+ID: 1574354
+
+File List:
+1. ChessBoard.java
+2. Makefile
+3. README
+4. more-input.txt
+5. more-output.txt
+6. test-input.txt
+7. test-output.txt
+
+**** Make sure test-output.txt is formatted correctly or else robochecker will fail
+test.output.txt is formatted in a single line in the zip file. I have formatted it
+and uploaded here so each answer is on a new line****
+
+Makefile code reused from Lab1
+Code for Nodes/Linked lists used and expanded from Sesh's lecture 5 notes
+File reading code reused from Lab2 FileTokens.java

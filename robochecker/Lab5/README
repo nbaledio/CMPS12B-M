@@ -1,0 +1,16 @@
+ID: 1574354
+Nathan Baledio
+
+Lab 5 files:
+
+1. Makefile
+2. READEME
+3. more-input.txt
+4. more-output.txt
+5. out.txt
+6. queue.c
+7. queue.h
+8. queueClient
+9. queueClient.c
+
+Some code for implementing Nodes used from https://www.learn-c.org/en/Linked_lists

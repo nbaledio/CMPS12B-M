@@ -1,0 +1,15 @@
+Nathan Baledio
+ID: 1574354
+
+File List
+
+1. Makefile
+2. Manifest
+3. NQueens.java
+4. README
+5. test-input.txt
+6. test-output.txt
+
+Makefile code taken from Lab 1. NQueens.java code for reading/writing files and crating tokens taken from Lab 2.
+Continue statements learned from https://www.tutorialspoint.com/java/java_continue_statement.htm
+Break statements learned from https://www.tutorialspoint.com/java/java_break_statement.htm
